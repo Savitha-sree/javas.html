@@ -39,6 +39,7 @@ body
     background-color:hotpink;
     border-radius: 30px;
     height:35px;
+    transition:all 0.1s;
 }
 .btn:hover
 {
